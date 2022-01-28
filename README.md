@@ -1,10 +1,5 @@
 # Calculadora do windows 10 em HTML
 
-
-<<<<<<< HEAD
-Projeto desenvolvido para praticar os conceitos básico do Javascript, como: 
-=======
-
 Projeto desenvolvido para praticar os conceitos básico do Javascript, como: 
 
 <ul>
