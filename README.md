@@ -11,7 +11,7 @@ Projeto desenvolvido para praticar os conceitos básico do Javascript, como:
 <li>Etc.</li>
 </ul>
 
-No curso foi apresentado a base da linguagem: , , , , , , , .
+No curso foi apresentado a base da linguagem: 
 
 <ul>
 <li>Laços (for, foreach, while);</li>
