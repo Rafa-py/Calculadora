@@ -23,6 +23,6 @@ No curso foi apresentado a base da linguagem:
 </ul>
 
 A calculadora foi desenvolvida com base no curso da [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br).
->>>>>>> f4fe778d63d3fb2e70eeb3b5286bf7ea88a30ca9
+
 ### Projeto
 ![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode-win.png?alt=media&token=218a8f2a-b800-4d03-92e8-9e493a4e949f)
