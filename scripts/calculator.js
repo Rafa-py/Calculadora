@@ -1,0 +1,1 @@
+window.calculator = new CalcController; //Criei o objeto! 
